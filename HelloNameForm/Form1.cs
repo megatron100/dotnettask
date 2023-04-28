@@ -10,7 +10,7 @@ namespace HelloNameForm
         private void button1_Click(object sender, EventArgs e)
         {
             string Name = textBox1.Text;
-            MessageBox.Show("Hello, " +Name);
+            MessageBox.Show("Hello, " +Name +"!");
         }
 
         private void label1_Click(object sender, EventArgs e)

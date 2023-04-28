@@ -28,7 +28,7 @@ namespace WPF_Task3_1._3
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             string name = textBox.Text;
-            MessageBox.Show("Hello, " + name);
+            MessageBox.Show("Hello, " + name+"!");
         }
     }
 }
