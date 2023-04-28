@@ -3,3 +3,8 @@
 ################################################################################
 
 /Console_Hello_name_1.1/obj
+/.vs
+/Console_Hello_name_1.1/bin/Debug/net6.0
+/Console_Hello_name_1.1/.vs/Console_Hello_name_1.1/FileContentIndex
+/HelloNameForm/bin/Debug/net6.0-windows
+/HelloNameForm/obj
