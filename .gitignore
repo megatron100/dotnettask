@@ -8,3 +8,7 @@
 /Console_Hello_name_1.1/.vs/Console_Hello_name_1.1/FileContentIndex
 /HelloNameForm/bin/Debug/net6.0-windows
 /HelloNameForm/obj
+/WPF_Task3_1.3/bin/Debug/net6.0-windows
+/WPF_Task3_1.3/obj
+**/bin/
+**/obj/
